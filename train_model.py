@@ -1,4 +1,4 @@
-# TAKEN FROM https://www.coursera.org/projects/nlp-fake-news-detector
+# MODEL CODE TAKEN FROM https://www.coursera.org/projects/nlp-fake-news-detector
 import tensorflow as tf
 import pandas as pd
 import numpy as np
